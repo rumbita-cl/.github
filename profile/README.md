@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-En%20Desarrollo-orange?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure-Self-Hosted%20%2F%20DigitalOcean-blue?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-DigitalOcean-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Fastify%20%2F%20Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile-Capacitor%20%2F%20Ionic-purple?style=for-the-badge&logo=ionic&logoColor=white" />
 </div>
