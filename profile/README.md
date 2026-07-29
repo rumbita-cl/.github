@@ -6,7 +6,12 @@
   <img src="https://img.shields.io/badge/Backend-Fastify%20%2F%20Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile-Capacitor%20%2F%20Ionic-purple?style=for-the-badge&logo=ionic&logoColor=white" />
 </div>
-
+<div align="center">
+  <br>
+  <a href="https://github.com/orgs/rumbita-cl/projects/1/views/1">
+    <img src="https://img.shields.io/badge/📊_Project_Board-Ver_Tablero-2ea44f?style=for-the-badge&logo=github" alt="Project Board" />
+  </a>
+</div>
 ---
 
 ## 🚀 Sobre el Proyecto
